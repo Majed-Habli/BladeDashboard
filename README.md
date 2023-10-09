@@ -67,11 +67,11 @@
 <h1>Demo</h1>
 
 ### Website interactions
-| Register screen  | Profile screen 
+| Line chart  | Bar chart 
 | ---| ---|
-| ![Landing](./readme/demo/website/web-gif/web-login.gif) | ![fsdaf](./readme/demo/website/web-gif/web-upload.gif) 
-| Profile interactions screen |  Profile-Edit screen |
-| ![fsdaf](./readme/demo/website/web-gif/web-carousel.gif) | ![fsdaf](./readme/demo/website/web-gif/web-profile-update.gif) |
+| ![Landing](./readme/demo/line-chart-color.gif) | ![fsdaf](./readme/demo/bar-chart-color.gif) 
+| Edit chart |
+| ![fsdaf](./readme/demo/chart-edit.gif)
 
 <br><br>
 
