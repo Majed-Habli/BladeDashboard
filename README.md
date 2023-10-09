@@ -14,7 +14,6 @@
 
 <!-- project philosophy -->
 <a name="project-philosophy"></a>
-<img src="./readme/demo/title2.svg"/>
 
 <a name="description"></a>
 
@@ -63,7 +62,6 @@
 
 <!-- Demo -->
 <a name="Demo"></a>
-<img src="./readme/demo/title4.svg"/>
 
 ### Website interactions
 | Register screen  | Profile screen 
@@ -76,7 +74,6 @@
 
 <!-- How to run -->
 <a name="how-to-run"></a>
-<img src="./readme/demo/title6.svg"/>
 
 > To set up BladeDashboard locally, follow these steps:
 >
