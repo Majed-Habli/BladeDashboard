@@ -67,11 +67,12 @@
 <h1>Demo</h1>
 
 ### Website interactions
-| Line chart
-| ![Landing](./readme/demo/line-chart-color.gif)
-| Bar chart 
-| ![fsdaf](./readme/demo/bar-chart-color.gif) 
-| Edit chart |
+| Line chart |
+| ---|
+| ![fsdaf](./readme/demo/line-chart-color.gif)
+| Bar chart
+| ![fsdaf](./readme/demo/bar-chart-color.gif)
+| Edit chart
 | ![fsdaf](./readme/demo/chart-edit.gif)
 
 <br><br>
