@@ -45,6 +45,7 @@
 
 <!-- Tech stack -->
 <a name="tech-stack"></a>
+<h1>Tech Stacks</h1>
 
 <a name="stacks"></a>
 ###  BladeDashboard is built using the following technologies:
@@ -63,6 +64,7 @@
 
 <!-- Demo -->
 <a name="Demo"></a>
+<h1>Demo</h1>
 
 ### Website interactions
 | Register screen  | Profile screen 
