@@ -14,6 +14,7 @@
 
 <!-- project philosophy -->
 <a name="project-philosophy"></a>
+<h1>project-philosophy</h1>
 
 <a name="description"></a>
 
